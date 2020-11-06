@@ -19,7 +19,7 @@ submit.addEventListener("click",() =>{
     if("sudhir gupta" === answer.value.toLowerCase()){
         // console.log("Congratulations")
         response.innerText = "Congrats You Can Proceed"
-        link.setAttribute("href","https://www.google.com/")
+        link.setAttribute("href","https://forms.gle/9bXyd2xem5tWM7Ct8")
         inputSection.style.display = "none"
         winResult.style.display = ""
         winResult.classList.add("animate")
